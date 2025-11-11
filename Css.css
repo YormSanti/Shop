@@ -232,15 +232,15 @@ body {
   }
 
   .logo {
-    width: 50px;
-    margin-left: 20px;
+    width: 45px;
+    margin-left: 15px;
     margin-bottom: 13px;
   }
 
   .btn_login {
     padding: 5px 8px;
     font-size: 10px;
-    margin-right: 10px;
+    
   }
 
   .product-container {
